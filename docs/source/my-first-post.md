@@ -58,12 +58,13 @@ git clone https://github.com/Coli-s-bri-dev
  
    ```bash
 npm install
+    ```
 
 3.Toujours dans le terminal, tapez la commande suivante pour lancer l'application React :
  
  ```bash
 npm start
- 
+ ```
  ## Étape 3 : Lancer le Backend
  
 Lancez VSCode, puis clonez le dépôt backend :
