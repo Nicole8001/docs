@@ -10,7 +10,6 @@ Cette documentation détaille les étapes de développement, les outils utilisé
  
 ### 2.1. INSTALLATION DE VISUAL STUDIO CODE (VSCode)
 Visual Studio Code (VSCode) est un éditeur de code léger, puissant et open-source, qui fournit des fonctionnalités avancées pour le développement.
----
 #### Étapes d'installation :
 1. Téléchargez le fichier d’installation de VSCode depuis le site officiel :  
    [https://code.visualstudio.com/download](https://code.visualstudio.com/download)
@@ -24,7 +23,6 @@ MySQL Workbench est un outil visuel unifié destiné aux architectes de bases de
  
 Pour pouvoir visualiser la base de données de votre projet, si vous n'avez pas encore installé MySQL Workbench, cliquez sur le lien ci-dessous :  
 [Comment installer MySQL Workbench](https://support.academicsoftware.eu/hc/fr/articles/360007014958-Comment-installer-MySQL-workbench)
- 
  
 ### 2.3. INSTALLATION DE XAMPP
  
