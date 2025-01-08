@@ -74,10 +74,10 @@ git clone https://github.com/Coli-s-bri-dev/ColibriBackend.git
 
 Exécutez le code source du programme en utilisant la commande (run).
   
-## LANCEMENT DE L'APPLICATION WEB
+## Étape 4 : Lancement de l'application Web 
  
 Une fois que vous avez lancé les deux programmes (frontend et backend), l'application Web va s’ouvrir automatiquement dans un navigateur Web de votre choix.
  
- **ATTENTION**
+ <span style="color: red;">ATTENTION</span>
  
 Pour exécuter le programme, vous devez vous assurer d'avoir lancé votre serveur **XAMPP** au préalable.
