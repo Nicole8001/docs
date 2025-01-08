@@ -45,14 +45,14 @@ Une fois tous ces outils installés, ouvrez votre dépôt Git et clonez le lien 
 ```bash
 git clone https://github.com/Coli-s-bri-dev
 ```
- 
+
 ## Étape 2 : Frontend
  
 1. Lancez votre interface IDE, dans notre cas **VSCode**, et clonez le dépôt suivant :  
 ```bash
 git clone https://github.com/Coli-s-bri-dev/Colibri-react-ts.git
 ```
-   
+
 2. Une fois le frontend ouvert, tapez la commande suivante dans votre terminal pour mettre à jour la bibliothèque :
   
 ```bash
@@ -64,6 +64,7 @@ npm install
 ```bash
 npm start
 ```
+
 ## Étape 3 : Lancer le Backend
  
 Lancez VSCode, puis clonez le dépôt backend :
