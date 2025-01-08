@@ -8,7 +8,7 @@ Cette documentation détaille les étapes de développement, les outils utilisé
  ---
 ## 2. INSTALLATION DES OUTILS
  
-### 2.1. Installation de Visual Studio Code (VSCode)
+### 2.1. INSTALLATION DE VISUAL STUDIO CODE (VSCode)
 Visual Studio Code (VSCode) est un éditeur de code léger, puissant et open-source, qui fournit des fonctionnalités avancées pour le développement.
  
 #### Étapes d'installation :
@@ -18,7 +18,7 @@ Visual Studio Code (VSCode) est un éditeur de code léger, puissant et open-sou
 3. Suivez les instructions d’installation fournies sur le site Web.
 4. Une fois installé, lancez VSCode pour vous assurer qu’il fonctionne correctement.
  
-## INSTALLATION DE MYSQL WORKBENCH
+### 2.2. INSTALLATION DE MYSQL WORKBENCH
  
 MySQL Workbench est un outil visuel unifié destiné aux architectes de bases de données, aux développeurs et aux administrateurs de bases de données. MySQL Workbench fournit des outils de modélisation de données, de développement SQL et d'administration complets pour la configuration du serveur, l'administration des utilisateurs, la sauvegarde et bien plus encore. MySQL Workbench est disponible sur Windows, Linux et macOS.
  
@@ -26,9 +26,9 @@ Pour pouvoir visualiser la base de données de votre projet, si vous n'avez pas 
 [Comment installer MySQL Workbench](https://support.academicsoftware.eu/hc/fr/articles/360007014958-Comment-installer-MySQL-workbench)
  
  
-## INSTALLATION DE XAMPP
+### 2.3. INSTALLATION DE XAMPP
  
-Maintenant que MySQL Workbench est installé sur votre machine, passons à l'installation de Xampp.  
+Maintenant que MySQL Workbench est installé sur votre machine, passez à l'installation de Xampp.  
 **XAMPP** est une solution complète libre et open source pour la mise en place de serveurs web, contenant :
 - Le serveur web Apache.
 - Le système de gestion de bases de données MariaDB (un fork maintenu par la communauté MySQL).
@@ -49,21 +49,21 @@ git clone https://github.com/Coli-s-bri-dev
  Étape 2 : Frontend
  
 1. Lancez votre interface IDE, dans notre cas **VSCode**, et clonez le dépôt suivant :  
-   ```bash
+```bash
    git clone https://github.com/Coli-s-bri-dev/Colibri-react-ts.git
-    ```
+```
    
 2. Une fois le frontend ouvert, tapez la commande suivante dans votre terminal pour mettre à jour la bibliothèque :
- 
-  ```bash
+  
+```bash
 npm install
-  ```
+```
 
 3.Toujours dans le terminal, tapez la commande suivante pour lancer l'application React :
- 
- ```bash
+  
+```bash
 npm start
- ```
+```
  ## Étape 3 : Lancer le Backend
  
 Lancez VSCode, puis clonez le dépôt backend :
