@@ -46,7 +46,7 @@ Une fois tous ces outils installés, ouvrez votre dépôt Git et clonez le lien 
 git clone https://github.com/Coli-s-bri-dev
 ```
  
- Étape 2 : Frontend
+ ## Étape 2 : Frontend
  
 1. Lancez votre interface IDE, dans notre cas **VSCode**, et clonez le dépôt suivant :  
 ```bash
@@ -72,12 +72,12 @@ Lancez VSCode, puis clonez le dépôt backend :
 git clone https://github.com/Coli-s-bri-dev/ColibriBackend.git
 ```
 
-Exécutez le code source du programme(run).
+Exécutez le code source du programme en utilisant la commande (run).
  
 ## LANCEMENT DE L'APPLICATION WEB
  
 Une fois que vous avez lancé les deux programmes (frontend et backend), l'application Web va s’ouvrir automatiquement dans un navigateur Web de votre choix.
  
-- ATTENTION
+.. ATTENTION ::
  
 Pour exécuter le programme, vous devez vous assurer d'avoir lancé votre serveur **XAMPP** au préalable.
