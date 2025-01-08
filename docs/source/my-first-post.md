@@ -5,7 +5,7 @@ Colibri est une plateforme web conçue pour simplifier la gestion de l’expédi
 - Offrir une interface fluide aux utilisateurs.
 - Optimiser les processus logistiques.
 Cette documentation détaille les étapes de développement, les outils utilisés, et les fonctionnalités principales.
- 
+ ---
 ## 2. INSTALLATION DES OUTILS
  
 ### 2.1. Installation de Visual Studio Code (VSCode)
