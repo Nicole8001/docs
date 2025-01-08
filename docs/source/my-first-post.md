@@ -50,7 +50,7 @@ git clone https://github.com/Coli-s-bri-dev
  
 1. Lancez votre interface IDE, dans notre cas **VSCode**, et clonez le dépôt suivant :  
 ```bash
-   git clone https://github.com/Coli-s-bri-dev/Colibri-react-ts.git
+git clone https://github.com/Coli-s-bri-dev/Colibri-react-ts.git
 ```
    
 2. Une fois le frontend ouvert, tapez la commande suivante dans votre terminal pour mettre à jour la bibliothèque :
@@ -74,10 +74,10 @@ git clone https://github.com/Coli-s-bri-dev/ColibriBackend.git
 
 Exécutez le code source du programme en utilisant la commande (run).
  
-## LANCEMENT DE L'APPLICATION WEB
+### LANCEMENT DE L'APPLICATION WEB
  
 Une fois que vous avez lancé les deux programmes (frontend et backend), l'application Web va s’ouvrir automatiquement dans un navigateur Web de votre choix.
  
-.. ATTENTION ::
+ **ATTENTION**
  
 Pour exécuter le programme, vous devez vous assurer d'avoir lancé votre serveur **XAMPP** au préalable.
