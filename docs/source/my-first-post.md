@@ -1,11 +1,13 @@
 # DOCUMENTATION TECHNIQUE : PROJET COLIBRI
  
 ## 1. INTRODUCTION
+
 Colibri est une plateforme web conçue pour simplifier la gestion de l’expédition et de la livraison de colis. Elle s’appuie sur des technologies modernes pour :
 - Offrir une interface fluide aux utilisateurs.
 - Optimiser les processus logistiques.
 Cette documentation détaille les étapes de développement, les outils utilisés, et les fonctionnalités principales.
 --- 
+
 ## 2. INSTALLATION DES OUTILS
 
 ### 2.1. INSTALLATION DE VISUAL STUDIO CODE (VSCode)
