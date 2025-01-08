@@ -78,6 +78,6 @@ Exécutez le code source du programme(run).
  
 Une fois que vous avez lancé les deux programmes (frontend et backend), l'application Web va s’ouvrir automatiquement dans un navigateur Web de votre choix.
  
-## ATTENTION
+- ATTENTION
  
 Pour exécuter le programme, vous devez vous assurer d'avoir lancé votre serveur **XAMPP** au préalable.
