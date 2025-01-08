@@ -5,9 +5,9 @@ Colibri est une plateforme web conçue pour simplifier la gestion de l’expédi
 - Offrir une interface fluide aux utilisateurs.
 - Optimiser les processus logistiques.
 Cette documentation détaille les étapes de développement, les outils utilisés, et les fonctionnalités principales.
----
+--- 
 ## 2. INSTALLATION DES OUTILS
- 
+
 ### 2.1. INSTALLATION DE VISUAL STUDIO CODE (VSCode)
 Visual Studio Code (VSCode) est un éditeur de code léger, puissant et open-source, qui fournit des fonctionnalités avancées pour le développement.
 #### Étapes d'installation :
